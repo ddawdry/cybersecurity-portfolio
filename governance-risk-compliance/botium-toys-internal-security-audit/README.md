@@ -38,10 +38,10 @@ The audit identified multiple security and compliance concerns, including:
 - Missing least privilege and separation of duties controls
 
 ## Files Included
-- `Risk Assessment Summary.pdf`
-- `Controls Assessment.pdf`
-- `Compliance Checklist.pdf`
-- `Security Recommendations.pdf`
+- `risk-assessment-summary.pdf`
+- `controls-assessment.pdf`
+- `compliance-checklist.pdf`
+- `security-recommendations.pdf`
 
 ## Skills Demonstrated
 - Risk assessment
