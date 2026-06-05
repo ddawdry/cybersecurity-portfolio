@@ -33,22 +33,10 @@ This approach supports organised incident tracking and promotes consistent docum
 - Threat and attack identification
 - Structured reporting
 
-## Current Journal Topics
-Current entries include:
-
-### Ransomware Incident Analysis
-Documented a ransomware attack against a health care organisation involving:
-- Phishing delivery methods
-- Malware deployment
-- File encryption
-- Operational disruption
-- Ransom demands
-- Incident reflection and response considerations
-
-Future entries may include additional investigations, security tools, and incident response scenarios.
-
 ## Files Included
 - `Incident-Handlers-Journal.pdf`
 
 ## Outcome
-This journal demonstrates the importance of structured documentation during cybersecurity incidents. Keeping detailed records helps incident handlers organise findings, support investigations, and improve future response and recovery efforts.
+This journal demonstrates the importance of structured documentation during cybersecurity incidents. Keeping detailed records helps incident handlers organise findings, support investigations, and improve future response and recovery efforts. 
+
+Future entries may include additional investigations, security tools, and incident response scenarios.
