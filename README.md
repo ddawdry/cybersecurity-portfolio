@@ -16,6 +16,12 @@ The goal of this portfolio is to demonstrate practical cybersecurity skills thro
 - Security Auditing
 - Security Research
 
+## Projects
+
+| Project | Area | What I Did |
+|---|---|---|
+| [Python Vulnerability Scanner](projects/vulnerability-scanner/) | Python, Networking | Built a TCP port scanner with input validation, concurrency, JSON reports and automated tests |
+
 ## Portfolio Contents
 This repository may include:
 
