@@ -21,6 +21,7 @@ The goal of this portfolio is to demonstrate practical cybersecurity skills thro
 | Project | Area | What I Did |
 |---|---|---|
 | [Python Vulnerability Scanner](projects/vulnerability-scanner/) | Python, Networking | Built a TCP port scanner with input validation, concurrency, JSON reports and automated tests |
+| [AI in Finance](projects/ai-in-finance-remake/) | Python, Machine Learning, React | Rebuilt a group project that predicts next-day stock and crypto direction, with data cleaning, walk-forward testing, backtesting, a dashboard and automated tests |
 
 ## Portfolio Contents
 This repository may include:
